@@ -113,7 +113,7 @@
                         should be created(generated)? -->
                         <configuration>
                             <!-- what ever we put here will appear in the report title -->
-                            <projectName>Obtain Care Cucumber(POM File)</projectName>
+                            <projectName>Test Jusan Cucumber(POM File)</projectName>
                             <!-- where the nice report should be generated in? -->
                             <!-- from pom file project build directory is target folder -->
                             <outputDirectory>${project.build.directory}/cucumber-report-pie-chart
